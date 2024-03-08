@@ -21,8 +21,6 @@ DevOps Engineer
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </picture></a></p>
 
-### Badges
-
 <b>My GitHub Stats</b>
 <p align="left"><a href="http://www.github.com/DhayalanJazz"><img src="https://github-readme-stats.vercel.app/api?username=DhayalanJazz&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="DhayalanJazz's GitHub stats" /></a></p>
 <p align="left"><a href="http://www.github.com/DhayalanJazz"><img
