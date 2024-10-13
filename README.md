@@ -5,7 +5,7 @@ Cloud DevOps Engineer
 ---------------
 
 *   🌍  I'm based in Canada
-* Skilled in Developing, Deploying and Managing applications in Amazon Web Services, Azure and Google Cloud Platform.
+* Skilled in Developing, Deploying and Managing applications in Amazon Web Services,Azure and Google Cloud Platform.
   
 ### Skills 
 
